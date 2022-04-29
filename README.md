@@ -1,2 +1,2 @@
-# Hangman-Game-C-
+# Hangman-Game
 Hangman game Coded on C++
